@@ -4,32 +4,45 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'سهل الاستخدام',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Our dictionary was built with simplicity in mind, ensuring users can easily 
-        search and explore definitions without any hassle.
+
+      <div dir="rtl">
+        تم بناء قاموسنا مع وضع البساطة في الاعتبار، مما يضمن للمستخدمين
+        القدرة على البحث بسهولة واستكشاف التعريفات دون أي عناء.
+      </div>
+
       </>
     ),
   },
   {
-    title: 'Clarifying Every Word',
+    title: 'توضيح كل كلمة',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Focus on understanding language. Our dictionary organizes definitions with clarity, providing 
-        concise meanings and example usage so you can learn quickly.
+
+      <div dir="rtl">
+        ركز على فهم اللغة. ينظم قاموسنا التعريفات بوضوح، ويقدم معاني
+         مختصرة وأمثلة لاستخدامها حتى تتمكن من التعلم بسرعة.
+      </div>
+
       </>
     ),
   },
   {
-    title: 'Flexible and Expandable',
+    title: 'مرن وقابل للتوسع',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Enhance or personalize your dictionary experience. Our platform is powered by customizable features, 
-        allowing you to add new words, definitions, or even synonyms with ease.
+      
+      <div dir="rtl">
+        رحسّن أو خصص تجربتك مع القاموس. منصتنا مدعومة بميزات قابلة للتخصيص،
+       مما يسمح لك بإضافة كلمات جديدة أو تعريفات أو حتى مرادفات بسهولة.
+
+      </div>
+
       </>
     ),
   },
