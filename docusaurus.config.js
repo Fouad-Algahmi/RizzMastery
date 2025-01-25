@@ -20,12 +20,12 @@ const config = {
   url: 'https://Fouad-Algahmi.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/rizz-docusaurus-site/',
+  baseUrl: '/RizzMastery/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'Fouad-Algahmi', // Usually your GitHub org/user name.
-  projectName: 'rizz-docusaurus-site', // Usually your repo name.
+  projectName: 'RizzMastery', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -48,7 +48,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Fouad-Algahmi/rizz-docusaurus-site/tree/main/',
+            'https://github.com/Fouad-Algahmi/RizzMastery/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -59,7 +59,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/Fouad-Algahmi/rizz-docusaurus-site/tree/main/',
+            'https://github.com/Fouad-Algahmi/RizzMastery/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn'
@@ -90,7 +90,7 @@ const config = {
             label: 'Docs',
           },
           {
-            href: 'https://github.com/Fouad-Algahmi/rizz-docusaurus-site',
+            href: 'https://github.com/Fouad-Algahmi/RizzMastery',
             label: 'GitHub',
             position: 'right',
           },

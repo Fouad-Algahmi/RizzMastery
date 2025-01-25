@@ -20,7 +20,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/category/الأساسيات">
-            Read The Dictionary - 5min ⏱️
+            Read The RizzMastery - 5min ⏱️
           </Link>
         </div>
       </div>
